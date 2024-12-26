@@ -1,0 +1,3 @@
+
+sham,1234,Manager,NULL;
+katie,1234,Customer,NULL;
